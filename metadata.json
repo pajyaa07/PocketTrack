@@ -1,0 +1,6 @@
+{
+  "name": "PocketTrack - Expense Tracker & Financial Hub",
+  "description": "Smart personal expense tracking, visual analytics, budget management, and Indian bank account integration in INR (₹).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
